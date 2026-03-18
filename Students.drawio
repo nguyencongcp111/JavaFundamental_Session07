@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.3">
+  <diagram name="Trang-1" id="BhuQkxJqdMxJiPSxe-6V">
+    <mxGraphModel dx="1896" dy="985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_DYf5pSBGCPB3K-8GjG8-5" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Students" vertex="1">
+          <mxGeometry height="234" width="166" x="344" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="_DYf5pSBGCPB3K-8GjG8-6" parent="_DYf5pSBGCPB3K-8GjG8-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- maSinhVien: String" vertex="1">
+          <mxGeometry height="26" width="166" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_DYf5pSBGCPB3K-8GjG8-7" parent="_DYf5pSBGCPB3K-8GjG8-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="-&amp;nbsp; hoTen: String" vertex="1">
+          <mxGeometry height="26" width="166" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="_DYf5pSBGCPB3K-8GjG8-8" parent="_DYf5pSBGCPB3K-8GjG8-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- ngaySinh: Date" vertex="1">
+          <mxGeometry height="26" width="166" y="78" as="geometry" />
+        </mxCell>
+        <mxCell id="_DYf5pSBGCPB3K-8GjG8-11" parent="_DYf5pSBGCPB3K-8GjG8-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- email: String" vertex="1">
+          <mxGeometry height="26" width="166" y="104" as="geometry" />
+        </mxCell>
+        <mxCell id="_DYf5pSBGCPB3K-8GjG8-12" parent="_DYf5pSBGCPB3K-8GjG8-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- soDienThoai: String" vertex="1">
+          <mxGeometry height="26" width="166" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_DYf5pSBGCPB3K-8GjG8-13" parent="_DYf5pSBGCPB3K-8GjG8-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ dangKyMonHoc(): void" vertex="1">
+          <mxGeometry height="26" width="166" y="156" as="geometry" />
+        </mxCell>
+        <mxCell id="_DYf5pSBGCPB3K-8GjG8-14" parent="_DYf5pSBGCPB3K-8GjG8-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ xemDiem(): void" vertex="1">
+          <mxGeometry height="26" width="166" y="182" as="geometry" />
+        </mxCell>
+        <mxCell id="_DYf5pSBGCPB3K-8GjG8-15" parent="_DYf5pSBGCPB3K-8GjG8-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ capNhatThongTin(): void" vertex="1">
+          <mxGeometry height="26" width="166" y="208" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
